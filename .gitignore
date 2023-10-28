@@ -1,0 +1,30 @@
+# Arquivos de compilação
+*.o
+*.a
+*.exe
+*.out
+
+# Arquivos binários
+bin/
+pkg/
+
+# Diretórios locais de pacotes Go
+vendor/
+
+# Arquivos de configuração específicos do IDE
+.idea/
+
+# Arquivos de log
+log/
+*.log
+
+# Arquivos de configuração
+*.yml
+*.json
+
+# Arquivos temporários
+*.swp
+
+# Arquivos de compilação e saída da documentação
+*.test
+*.prof
